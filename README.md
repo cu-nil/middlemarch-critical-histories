@@ -1,3 +1,9 @@
+As of August 2025, this repository is archived and read-only. The work here has been used in:
+
+Eckert, Sierra, and Milan Terlunen. “What We Quote: Disciplinary History and the Textual Atmospheres of _Middlemarch_.” _Victorian Studies_ 66, no. 4 (2024): 557-584. https://dx.doi.org/10.2979/vic.00193.
+
+A fork of this repository, referred to in the article above, lives at https://lit-mod-viz.github.io/middlemarch-critical-histories/
+
 # Middlemarch Critical Histories Project
 
 What can we learn about literary scholarship by analysing thousands of articles at a time?
